@@ -1,0 +1,16 @@
+.browse {
+	color: #f8f9fa;
+}
+
+.banner {
+
+	background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 100%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url("../img/jumbo2.jpg");
+	background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+#hov:hover {
+	background-color: #28a745;
+}
